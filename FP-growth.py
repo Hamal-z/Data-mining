@@ -178,4 +178,5 @@ def main():
     print('总共%d个' % sum)
 
 
-main()
+if __name__ == '__main__':
+    main()
